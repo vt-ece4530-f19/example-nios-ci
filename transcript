@@ -1,0 +1,119 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+vsim work.interpolatecitb
+# vsim work.interpolatecitb 
+# Start time: 20:18:45 on Oct 14,2019
+# Loading work.interpolatecitb
+# Loading work.interpolateci
+# Loading work.interpolatecoef
+add wave -position end  sim:/interpolatecitb/DUT/acc
+add wave -position end  sim:/interpolatecitb/DUT/acc_next
+add wave -position end  sim:/interpolatecitb/DUT/clk
+add wave -position end  sim:/interpolatecitb/DUT/clk_en
+add wave -position end  sim:/interpolatecitb/DUT/coef_index
+add wave -position end  sim:/interpolatecitb/DUT/coef_value
+add wave -position end  sim:/interpolatecitb/DUT/dataa
+add wave -position end  sim:/interpolatecitb/DUT/datab
+add wave -position end  sim:/interpolatecitb/DUT/done
+add wave -position end  sim:/interpolatecitb/DUT/i
+add wave -position end  sim:/interpolatecitb/DUT/mac_a
+add wave -position end  sim:/interpolatecitb/DUT/mac_b
+add wave -position end  sim:/interpolatecitb/DUT/mac_multiply
+add wave -position end  sim:/interpolatecitb/DUT/mac_multiply_accumulate
+add wave -position end  sim:/interpolatecitb/DUT/n
+add wave -position end  sim:/interpolatecitb/DUT/op_a
+add wave -position end  sim:/interpolatecitb/DUT/op_b
+add wave -position end  sim:/interpolatecitb/DUT/regdone
+add wave -position end  sim:/interpolatecitb/DUT/reset
+add wave -position end  sim:/interpolatecitb/DUT/result
+add wave -position end  sim:/interpolatecitb/DUT/start
+add wave -position end  sim:/interpolatecitb/DUT/state
+add wave -position end  sim:/interpolatecitb/DUT/state_next
+add wave -position end  sim:/interpolatecitb/DUT/tap
+add wave -position end  sim:/interpolatecitb/DUT/tap_next
+run
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 0003ffff
+# 
+run
+# 0003ffff
+# 
+run
+run
+# 0003ffff
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+# 00000000
+# 
+run
+run
+# 00000000
+# 
+run
+run
+# 0003ffff
+# 
+run
+# 0003ffff
+# 
+run
+# End time: 20:28:11 on Oct 14,2019, Elapsed time: 0:09:26
+# Errors: 0, Warnings: 0
